@@ -1,0 +1,13 @@
+{
+  "titulo": "{titulo}",
+  "sinopsis": "{sinopsis}",
+  "director": "{director}",
+  "genero": ["Acción", "Comedia", "Terror"],
+  "duracion_minutos": 120,
+  "portada_url": "{imgUrl}",
+  "trailer_url": "{trailerUrl}",
+  "fecha_estreno": "{fechaEstreno}",
+  "precio_compra": "{precioCompra}",
+  "precio_alquiler": "{precioAlquiler}",
+  "estado": "{estado}"
+}
